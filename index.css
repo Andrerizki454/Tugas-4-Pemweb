@@ -1,0 +1,24 @@
+body {
+    background-image: url('assets/BG.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.box{
+    position: relative;
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    margin-top: 250px;
+    background-color: #008891;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 10px 5px rgb(0, 0, 0);
+    border-radius: 12px;
+}
+.judul2{
+    margin-left: 70px;
+}
+.judul1{
+    color: black;
+}
